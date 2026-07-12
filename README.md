@@ -1,4 +1,4 @@
-# Multi-Payment Fraud Platform
+# Multi-Source Payment Commitment Protocol
 
 ## Overview
 

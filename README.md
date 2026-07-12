@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Multi-Payment Fraud Platform is a fintech application that allows customers to split a single transaction across multiple payment methods while providing real-time fraud detection and analytics.
+The Multi-Source Payment Commitment Protocol is a fintech application that allows customers to split a single transaction across multiple payment methods while providing real-time fraud detection and analytics.
 
 Example:
 
